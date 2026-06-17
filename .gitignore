@@ -1,0 +1,13 @@
+﻿.vs/
+*.vcxproj.user
+x64/
+Debug/
+Release/
+*.opendb
+*.db
+*.sqlite
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.recipe

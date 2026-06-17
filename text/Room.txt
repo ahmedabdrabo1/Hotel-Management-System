@@ -1,0 +1,4 @@
+roomId,type,price,status,features
+1,single,500,booked,TV
+4,double,150,booked,TV
+-572662306,single,150,booked,WIFI
